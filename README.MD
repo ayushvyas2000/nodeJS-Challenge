@@ -16,3 +16,9 @@ npm install
 ## Set up environment variable for port (optional)
 
 Create a .env file and assign a valid value to PORT, you can skip it and run the app on localhost with hard coded port 5000
+
+## Run the start script in terminal
+
+```sh
+npm start
+```
